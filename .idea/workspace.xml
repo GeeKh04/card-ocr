@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a705d5d-b2c1-4fa5-9461-2170e1f7c03e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,14 +42,14 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/data/card" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/main/resources/data/tessdata" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources/data/card" />
+      <recent name="$PROJECT_DIR$/src/main/resources/data/tessdata" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -124,7 +123,7 @@
       <workItem from="1576268730340" duration="123000" />
       <workItem from="1576270663549" duration="110000" />
       <workItem from="1592758905526" duration="347000" />
-      <workItem from="1592759610062" duration="3371000" />
+      <workItem from="1592759610062" duration="3903000" />
     </task>
     <servers />
   </component>
